@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+#container {
+    margin: auto;
+    margin-top: 5%;
+    grid-gap: 1%;
+    height: 400px;
+    width: 400px;
+}
