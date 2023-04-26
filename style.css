@@ -1,10 +1,23 @@
 body {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5%;
+}
+
+#slidercontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+#slider {
+    outline: none;
 }
 #container {
     margin: auto;
-    margin-top: 5%;
-    grid-gap: 1%;
-    height: 400px;
-    width: 400px;
+    margin-top: 3%;
+    grid-gap: 0.5%;
+    height: 500px;
+    width: 500px;
 }
